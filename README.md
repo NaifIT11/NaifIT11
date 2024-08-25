@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Naif Alotaibi, a passionate web developer with
 
 ## What I'm Currently Working On
 
-I'm currently exploring advanced features of Next.js and I love the serverless methdology, I enjoy overengineering solutions and pushing the boundaries of what's possible with these technologies.
+I'm currently exploring advanced features of Next.js and love overengineering solutions to push the boundaries of what's possible with this framework. I'm also passionate about understanding various architectural patterns, such as monolithic, microservices, and serverless, and I'm eager to explore more models and JavaScript frameworks in the industry.
 
 ## My Goals
 
