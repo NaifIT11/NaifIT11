@@ -1,6 +1,6 @@
 # Naif Alotaibi
 
-Welcome to my GitHub profile! I'm Naif Alotaibi, a passionate web developer with a keen interest in building scalable, efficient, and user-friendly web applications. My focus is primarily on using modern JavaScript frameworks and libraries to create seamless and dynamic user experiences.
+Hi (: I'm Naif Alotaibi, a passionate web developer with a keen interest in building scalable, efficient, and user-friendly web applications. My focus is primarily on using modern JavaScript frameworks and libraries to create seamless and dynamic user experiences.
 
 ## About Me
 
