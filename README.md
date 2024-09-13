@@ -29,4 +29,4 @@ Feel free to reach out if you're interested in collaborating on projects or disc
 
 ---
 
-Thanks for visiting my profile. Let's build something amazing together!
+Thanks for reading .
