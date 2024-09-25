@@ -7,16 +7,19 @@ Hi (: I'm Naif Alotaibi, a passionate web developer with a keen interest in buil
 - **Name:** Naif Alotaibi
 - **Interests:** Web Development, Software Engineering, Full-Stack Development
 - **Technologies I Love:**
-  - **React.js:** Creating dynamic and interactive user interfaces with component-based architecture.
-  - **Next.js:** Developing server-side rendered applications with a focus on performance and SEO.
+  - **HTML,CSS,JS**
+  - **NodeJS**
+  - **ExpressJS**
+  - **ReactJS**
+  - **NextJS**
 
 ## What I'm Currently Working On
 
-I'm currently exploring advanced features of Next.js and love overengineering solutions to push the boundaries of what's possible with this framework. I'm also passionate about understanding various architectural patterns, such as monolithic, microservices, and serverless, and I'm eager to explore more models and JavaScript frameworks in the industry.
+I'm currently exploring advanced features of Any JS framework and love overengineering solutions to push the boundaries. I'm also passionate about understanding various architectural patterns, such as monolithic, microservices, and serverless, and I'm eager to explore more models and JavaScript frameworks in the industry.
 
 ## My Goals
 
-- **Enhance Skills:** Continuously learning and improving my skills in JavaScript, especially with frameworks like React and Next.js.
+- **Enhance Skills:** Continuously learning and improving my skills in JavaScript and Jasvascript frameworks
 - **Build Projects:** Developing real-world projects that solve problems and provide value to users.
 - **Contribute:** Collaborating with other developers and contributing to open-source projects to give back to the community.
 
