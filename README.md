@@ -15,7 +15,7 @@ Hi (: I'm Naif Alotaibi, a passionate web developer with a keen interest in buil
 
 ## What I'm Currently Working On
 
-I'm currently exploring advanced features of Any JS framework and love overengineering solutions to push the boundaries. I'm also passionate about understanding various architectural patterns, such as monolithic, microservices, and serverless, and I'm eager to explore more models and JavaScript frameworks in the industry.
+I'm currently exploring advanced features of ReactJS and NextJS and love overengineering solutions to push the boundaries. and I'm eager to explore more models and JavaScript frameworks in the industry.
 
 ## My Goals
 
