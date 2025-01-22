@@ -25,8 +25,8 @@ I'm currently exploring advanced features of ReactJS and NextJS and love overeng
 
 ## Connect with Me
 
-- **GitHub:** [naif-alotaibi](https://github.com/NaifIT11)
-- **Twitter:** [@naif_alotaibi](https://twitter.com/NaifIT11)
+- **LinkedIn:** [Naif Alotaibi](https://www.linkedin.com/in/naif-alotaibi-b25a4632b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Twitter (X):** [@NaifIT11](https://twitter.com/NaifIT11)
 
 Feel free to reach out if you're interested in collaborating on projects or discussing the latest trends in web development!
 
