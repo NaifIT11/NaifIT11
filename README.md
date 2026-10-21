@@ -8,7 +8,7 @@ Hi (: I'm Naif Alotaibi, a passionate Software Engineer with a keen interest in 
 
 ## My Goals
 
-- **Enhance Skills:** Continuously learning and improving my skills in JavaScript and Jasvascript frameworks
+- **Enhance Skills:** Continuously learning and improving my skills.
 - **Build Projects:** Developing real-world projects that solve problems and provide value to users.
 - **Contribute:** Collaborating with other developers and contributing to open-source projects to give back to the community.
 
