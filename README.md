@@ -1,6 +1,6 @@
 # Naif Alotaibi
 
-Hi (: I'm Naif Alotaibi, a passionate Software Engineer with a keen interest in building scalable, efficient, and user-friendly web applications
+Hi (: I'm Naif Alotaibi, a passionate Software Engineer with a keen interest in building scalable, efficient, and user-friendly apps.
 ## About Me
 
 - **Name:** Naif Alotaibi
